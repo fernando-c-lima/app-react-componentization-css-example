@@ -31,7 +31,7 @@ npm install
 ## Rodar o aplicativo localmente
 npm start
 
-Isso iniciará o servidor de desenvolvimento. Abra http://localhost:3000 no seu navegador para ver o projeto
+Isso iniciará o servidor de desenvolvimento. Abra [http://localhost:3000]() no seu navegador para ver o projeto
 
 # Funcionalidades
 - Componentização: Utilização de componentes para estruturar a interface do usuário de forma modular.
